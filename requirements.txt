@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+wikipedia
+numpy
+pandas
+scipy
+scikit-learn
+pandapower
+torch
+gymnasium
+stable-baselines3
+matplotlib
